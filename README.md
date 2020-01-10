@@ -19,3 +19,7 @@ Our project aims to solve the problems outlined in the background by providing a
 - Creating a listing: Users will be able to post a listing to our platform with their project title and other information relevant to their project such as what kind of fields their projects are related to, the technologies and languages involved, what course it’s meant to be for i.e. COMP4920, and the kind of people they’d like for the project.
 - List/search listings: Users will be able to list or search through the listings by their title/description or filter and sort them by other criteria.
 - Apply for listings: Users will be able to apply for listings they’re interested in and be able to state what skills they are able to bring to the project and other relevant information. The creator of the listing will then be notified of the application.
+
+## Screencaps
+
+
