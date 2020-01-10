@@ -21,5 +21,7 @@ Our project aims to solve the problems outlined in the background by providing a
 - Apply for listings: Users will be able to apply for listings they’re interested in and be able to state what skills they are able to bring to the project and other relevant information. The creator of the listing will then be notified of the application.
 
 ## Screencaps
-
+![Home Page](https://github.com/Jackson-Luu/CodeUnity/blob/master/screencaps/screencap1.png)
+![Search Page](https://github.com/Jackson-Luu/CodeUnity/blob/master/screencaps/screencap2.png)
+![Group Chat](https://github.com/Jackson-Luu/CodeUnity/blob/master/screencaps/screencap3.png)
 
