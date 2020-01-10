@@ -22,9 +22,12 @@ Our project aims to solve the problems outlined in the background by providing a
 
 ## Screencaps
 Home Page
+
 ![Home Page](https://github.com/Jackson-Luu/CodeUnity/blob/master/screencaps/screencap1.png)
 Search Page
+
 ![Search Page](https://github.com/Jackson-Luu/CodeUnity/blob/master/screencaps/screencap2.png)
 Group Chat
+
 ![Group Chat](https://github.com/Jackson-Luu/CodeUnity/blob/master/screencaps/screencap3.png)
 
